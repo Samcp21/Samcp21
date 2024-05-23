@@ -5,7 +5,7 @@
 I am a passionate developer specialized in web software. I love to learn and constantly challenge myself. Outside of work, I enjoy music, video games and technology.
 
 - 🌱 I am currently continuing to expand my knowledge in Full Stack web development.
-- 👯 I am looking to collaborate on web development projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🧑‍💻 I am looking to collaborate on web development projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about anything. I will try to help you as much as I can.
 
 ### You can find in me in the web 🌍
