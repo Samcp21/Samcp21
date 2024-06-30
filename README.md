@@ -10,7 +10,7 @@ I am a passionate developer specialized in web software. I love to learn and con
 
 ### You can find in me in the web 🌍
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samcp210@gmail.com)](mailto:samcp210@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Samcp210-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samcp210/)](https://www.linkedin.com/in/samcp210/) [![Website Badge](https://img.shields.io/badge/-Samcp210-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://samcp210.me)](https://portfolio-g3ucidjg6-sams-projects-ed3bc1a2.vercel.app)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samcp210@gmail.com)](mailto:samcp210@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Samcp210-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samcp210/)](https://www.linkedin.com/in/samcp210/) [![Website Badge](https://img.shields.io/badge/-Samcp210-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://samcp210.me)]
 
 
 
